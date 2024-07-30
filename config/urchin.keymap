@@ -166,7 +166,7 @@
 &kp Q             &kp W             &kp E                 &kp R               &kp T          &kp Y        &kp U                &kp I                  &kp O              &kp P
 &hp LEFT_GUI A    &hr LEFT_ALT S    &hm LEFT_CONTROL D    &hm LEFT_SHIFT F    &kp G          &kp H        &hm RIGHT_SHIFT J    &hm RIGHT_CONTROL K    &hr RIGHT_ALT L    &hp RIGHT_GUI SEMICOLON
 &kp Z             &kp X             &kp C                 &kp V               &kp B          &kp N        &kp M                &kp COMMA              &kp DOT            &kp SLASH
-                                                          &lh 1 BACKSPACE     &lh 2 ENTER    &lh 2 TAB    &lh 1 SPACE
+                                                          &lh 1 BACKSPACE     &lt 2 ENTER    &lt 2 TAB    &lt 1 SPACE
             >;
         };
 

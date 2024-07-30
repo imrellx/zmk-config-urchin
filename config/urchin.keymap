@@ -150,6 +150,8 @@
         esc {
             bindings = <&kp ESCAPE>;
             key-positions = <16 17>;
+            layers = <0>;
+            timeout-ms = <200>;
         };
     };
 

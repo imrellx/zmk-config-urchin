@@ -267,7 +267,7 @@
             label = "num";
             bindings = <
 &kp EXCL       &kp AT        &kp LEFT_BRACE          &kp RIGHT_BRACE          &kp BACKSLASH    &kp PLUS     &kp N7    &kp N8    &kp N9    &kp STAR
-&kp HASH       &kp DOLLAR    &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS    &kp CARET        &kp MINUS    &kp N4    &kp N5    &kp N6    &kp N0
+&kp HASH       &kp DOLLAR    &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS    &kp HASH         &kp MINUS    &kp N4    &kp N5    &kp N6    &kp N0
 &kp PERCENT    &kp CARET     &kp LEFT_BRACKET        &kp RIGHT_BRACE          &kp DELETE       &kp EQUAL    &kp N1    &kp N2    &kp N3    &kp DOT
                                                      &trans                   &trans           &trans       &trans
             >;
